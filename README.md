@@ -19,7 +19,7 @@
 - AI-powered Lead Generation Portals
 
 ## 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hissanshahid-dotcom&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hissanshahid-dotcom&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ## 📫 Contact
 - 💼 [LinkedIn](https://linkedin.com/in/muhammad-hissan-shahid-94baaa308)
