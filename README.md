@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Muhammad Hissan Shahid 👋
 
-<!--
-**Hissanshahid-dotcom/Hissanshahid-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack MERN Developer** based in Lahore, Pakistan 🇵🇰
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Build
+- B2B Marketplace & E-commerce Platforms
+- Clinic Management Systems
+- CRM & Admin Portal Solutions
+- Luxury Brand & Event Websites
+- AI-powered Lead Generation Portals
+
+## 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hissanshahid-dotcom&show_icons=true&theme=dark)
+
+## 📫 Contact
+- 💼 [LinkedIn](https://linkedin.com/in/muhammad-hissan-shahid-94baaa308)
+- 📧 hissanshahid56@gmail.com
+- 📍 Lahore, Pakistan | Open to work
