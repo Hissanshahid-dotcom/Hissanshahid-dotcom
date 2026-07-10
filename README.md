@@ -20,6 +20,13 @@
 
 ## 📊 Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=Hissanshahid-dotcom&theme=dark&hide_border=true)
+### 📊 GitHub Stats
+
+![Hissan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hissanshahid-dotcom&show_icons=true&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Hissanshahid-dotcom&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hissanshahid-dotcom&layout=compact&theme=radical&hide_border=true)
 
 ## 📫 Contact
 - 💼 [LinkedIn](https://linkedin.com/in/muhammad-hissan-shahid-94baaa308)
