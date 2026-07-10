@@ -1,5 +1,4 @@
 # Hi, I'm Muhammad Hissan Shahid 👋
-
 **Full Stack MERN Developer** based in Lahore, Pakistan 🇵🇰
 
 ## 🛠️ Tech Stack
@@ -21,6 +20,8 @@
 ## 📊 Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=Hissanshahid-dotcom&theme=dark&hide_border=true)
 
+## 📈 Live Metrics Dashboard
+![Metrics](./metrics.svg)
 
 ## 📫 Contact
 - 💼 [LinkedIn](https://linkedin.com/in/muhammad-hissan-shahid-94baaa308)
