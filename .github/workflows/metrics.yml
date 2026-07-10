@@ -1,0 +1,62 @@
+name: Update Metrics Dashboard
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC — adjust if you want a different time
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}   # lets you manually trigger it from the Actions tab
+  push:
+    branches:
+      - main              # re-runs whenever you push to main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # ---- Core sections ----
+          user: Hissanshahid-dotcom
+          template: classic
+          base: header, activity, community, repositories, metadata
+
+          # ---- Activity: real commits, dates, repos touched ----
+          plugin_activity: yes
+          plugin_activity_limit: 10
+          plugin_activity_days: 30
+          plugin_activity_visibility: all
+          plugin_activity_timestamps: yes
+
+          # ---- Repo & language ranking ----
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_load: 300
+          plugin_languages_recent_days: 14
+
+          # ---- Star / follower / rank ----
+          plugin_followup: yes
+          plugin_stars: yes
+          plugin_stars_limit: 5
+
+          # ---- Contribution calendar / isometric commits ----
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # ---- Lines of code changed (additions/deletions over time) ----
+          plugin_lines: yes
+          plugin_lines_history_limit: 4
+          plugin_lines_repositories_limit: 10
+
+          # ---- New repos created recently ----
+          plugin_repositories: yes
+          plugin_repositories_forks: no
+
+          config_timezone: Asia/Karachi
