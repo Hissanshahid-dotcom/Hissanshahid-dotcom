@@ -20,7 +20,7 @@
 
 ## 📊 Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=Hissanshahid-dotcom&theme=dark&hide_border=true)
-![trophy](https://github-profile-trophy.vercel.app/?username=Hissanshahid-dotcom&theme=radical&no-frame=true&row=1)
+
 
 ## 📫 Contact
 - 💼 [LinkedIn](https://linkedin.com/in/muhammad-hissan-shahid-94baaa308)
