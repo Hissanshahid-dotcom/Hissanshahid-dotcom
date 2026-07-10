@@ -27,10 +27,10 @@ jobs:
 
           # ---- Activity: real commits, dates, repos touched ----
           plugin_activity: yes
-          plugin_activity_limit: 10
-          plugin_activity_days: 30
-          plugin_activity_visibility: all
-          plugin_activity_timestamps: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_visibility: public
+          plugin_activity_timestamps: no
 
           # ---- Repo & language ranking ----
           plugin_languages: yes
